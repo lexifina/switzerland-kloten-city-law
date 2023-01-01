@@ -10,13 +10,13 @@
 ### 3.1 Lohn
 ### 3.2 Individuelle Lohnanpassungen
 ## 4 Ersatz von dienstlichen Auslagen
-## 5 Mitarbeiterbeurteilung
+## 5 Personalgespräch
 ## 6 Pflichten
 ### 6.1 Allgemeine Grundsätze
 ### 6.2 Arbeitszeit
 ### 6.3 Überzeit
-### 6.4 Schicht- und Bereitschaftsdienst
-## 7 Arbeitsfreie Tage, Ferien, Urlaub, Mutterschaft, Krankheit, Unfall und Tod, Militär-, Schutz- und Zivildienst
+### 6.4 Pikett- und Bereitschaftsdienst sowie Dienst nach Einsatzplanung
+## 7 Arbeitsfreie Tage, Ferien, Urlaub, Krankheit, Unfall, Mutterschaft, Vaterschaft, Betreuungsurlaub, Adoption, Militär- und Schutzdienst, Zivildienst, Tod
 ## 8 Rechtsschutz
-## 9 Schlussbestimmungen
-## A1 Anhang 1: Lehrpersonal
+## 9 Kantonales und kommunales Personal der Schule Kloten, Musikschulpersonal
+## 10 Schlussbestimmungen
