@@ -1,3 +1,5 @@
 # Verordnung über das unbeschränkte Parkieren in Blauen Zonen
-(Parkkartenverordnung)
-Vom 06.12.1994
+(Parkverordnung)
+Vom 05.04.2022
+Der Gemeinderat,
+beschliesst:
