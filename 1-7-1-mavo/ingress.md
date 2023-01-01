@@ -1,3 +1,3 @@
 # Verordnung über das Anstellungsverhältnis der Mitarbeiterinnen und Mitarbeiter
 (MaVo)
-Vom 01.12.2009
+Vom 05.09.2023

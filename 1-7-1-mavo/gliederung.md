@@ -11,8 +11,8 @@
 ## 3 Rechte und Pflichten der Mitarbeitenden
 ### 3.1 Rechte
 ### 3.2 Pflichten
-### 3.3 Arbeitsfreie Tage, Ferien, Urlaub, Elternschaft, Krankheit, Unfall und Tod, Militärdienst, Schutzdienst und Zivildienst
-### 3.4 Personalakten und Datenschutz
+### 3.3 Arbeitsfreie Tage und Stunden, Ferien, Urlaub, Elternschaft, Krankheit, Unfall und Tod, Militärdienst, Schutzdienst und Zivildienst
+### 3.4 Datenschutz
 ## 4 Personalvorsorge
 ## 5 Personen mit besonderem Wahlverfahren
 ## 6 Rechtsschutz
