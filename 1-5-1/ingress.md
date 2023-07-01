@@ -1,2 +1,2 @@
 # Geschäftsreglement Gemeinderat
-Vom 11.05.2021
+Vom 06.06.2023
