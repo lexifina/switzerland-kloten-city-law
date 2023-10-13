@@ -1,6 +1,7 @@
 ## 1 Zonenordnung
 ## 2 Zonenvorschriften
 ### 2.1 Kernzonen
+### 2.1a Quartiererhaltungszone
 ### 2.2 Zentrumszone
 ### 2.3 Wohnzonen (örtlich mit Gewerbeerleichterung)
 ### 2.4 Arbeitsplatzzonen

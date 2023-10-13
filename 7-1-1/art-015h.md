@@ -1,0 +1,5 @@
+# Art. 15h Zentrumsbereich
+1 Die Platzfassaden der vier Hauptgebäude in der Nachbarschaft I sind mit dem überwiegenden Teil der massgeblichen Fassade so auszuformulieren, dass der im Ergänzungsplan schematisch dargestellte Zentrumsbereich räumlich klar als Platz definiert wird. Die Orientierung und Adressbildung hat zum angrenzenden Platz- und Strassenraum zu erfolgen.
+2 In Erdgeschossen, die dem bezeichneten Platz- und Strassenraum zugewandt sind, sind in der ersten Raumtiefe nur gewerbliche und gemeinschaftliche Nutzungen zulässig. Die lichte Erdgeschosshöhe dieser Räume hat in der Regel mindestens 3.5 m zu betragen.
+3 Die Vorzonen der Erdgeschosse sind, abgestimmt auf den angrenzenden öffentlichen Strassenraum, mit einer hohen Gestaltungsqualität auszubilden.
+4 Der Platzbelag ist robust auszugestalten und durch präzis gesetzte Elemente, wie Bäume, zu gliedern. Der Zentrumsbereich hat die Bedürfnisse aller Bewohnenden zu berücksichtigen und ist entsprechend auszustatten. Für eine einnehmende Atmosphäre und hitzemindernde Wirkung sind Bäume, Wasserspiele oder anderweitige Elemente vorzusehen.
