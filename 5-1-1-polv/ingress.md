@@ -1,3 +1,6 @@
 # Polizeiverordnung
-Vom 08.06.2004
-Gestützt auf § 74 des Gemeindegesetzes vom 6. Juni 1926 und Art. 32 lit. a der Gemeindeordnung vom 19. Oktober 2003
+(PolV)
+Vom 02.04.2024
+Der Gemeinderat,
+gestützt auf Gemeindeordnung Art. 14 Abs. 1 lit. d,
+beschliesst:
