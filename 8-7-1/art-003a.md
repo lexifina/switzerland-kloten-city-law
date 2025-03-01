@@ -1,5 +1,5 @@
-# Art. 3a Betrag für den allgemeinen Lebensbedarf, Anspruchslimite
-1 Der Betrag für den allgemeinen Lebensbedarf liegt beim jährlichen Gemeindezuschuss über der Beihilfe:
+# Art. 3a Betrag für den allgemeinen Lebensbedarf
+1 Der Betrag für den allgemeinen Lebensbedarf kann maximal um folgende Beträge erhöht werden:
 a. für Alleinstehende: Fr. 1'800.00
 b. für Ehepaare: Fr. 2'700.00
 c. für das 1. und 2. Kind: Fr. 750.00
