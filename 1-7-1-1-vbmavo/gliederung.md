@@ -15,7 +15,8 @@
 ### 6.1 Allgemeine Grundsätze
 ### 6.2 Arbeitszeit
 ### 6.3 Überzeit
-### 6.4 Pikett- und Bereitschaftsdienst sowie Dienst nach Einsatzplanung
+### 6.4 …
+### 6.5 Nebenbeschäftigungen und öffentliche Ämter
 ## 7 Arbeitsfreie Tage, Ferien, Urlaub, Krankheit, Unfall, Mutterschaft, Vaterschaft, Betreuungsurlaub, Adoption, Militär- und Schutzdienst, Zivildienst, Tod
 ## 8 Rechtsschutz
 ## 9 Kantonales und kommunales Personal der Schule Kloten, Musikschulpersonal
