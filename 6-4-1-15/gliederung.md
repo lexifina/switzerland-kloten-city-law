@@ -1,1 +1,1 @@
-## 1 Friedhof- und Bestattungswesen
+## 1 Friedhofs- und Bestattungswesen
