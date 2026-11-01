@@ -1,0 +1,1599 @@
+{
+ "country": "CH-ZH-KLOTEN",
+ "acts": [
+  {
+   "slug": "1-1-1-go",
+   "short": "GO",
+   "title": "Gemeindeordnung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 59,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.1-1/versions/311",
+     "sha256": "844385f711e6f2d15bc77f27cb03bde7e9a2a0ab03b873a03a6bd5047e5e1f98"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 60,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.1-1/versions/317",
+     "sha256": "2eb0e57abc10c3d92d3fb1b93d11b6fc30172fc91154cff682f16997126f959a"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 60,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.1-1/versions/320",
+     "sha256": "37e4dbb8f642593535ee2707fe2800eb28cc6e8cf35784892fc85f1707b0cdb4"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 60,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "e8f07b6933a2fd4e6f422cb72955e9278a27743f1721677891e207297077e27f"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Publikationsreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.2-1/versions/200",
+     "sha256": "13b76d71b65bfeb8c376e12cef78076b80103a28c09bcaa2761e339a46a9271d"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 7,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "08eb91e62bb426453370424d7931a72b306b9a3d5da1b1eb431ea6732121e4cb"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Datenschutzreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.2-2/versions/103",
+     "sha256": "6acc6063ffd34b91d1375301a95af53e071b2c9c2ec76169b2d8505b445fb27a"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 19,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "407c5dd88498280d75583358aa1f8841d8adf7138ec90ea2f0ac9e89abc133d7"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-3",
+   "short": "SRS 1.2-3",
+   "title": "Weisung zum Umgang mit Bildern",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.2-3",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.2-3",
+     "sha256": "f3e06999110c5769ce3fe9ab690ca6a2ee27fde70eecfdcbff265a2f3e9cb127"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1",
+   "short": "SRS 1.5-1",
+   "title": "Geschäftsreglement Gemeinderat",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.5-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 76,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.5-1/versions/201",
+     "sha256": "5917d6c69514c0342b35cd780691ba845a0bc8e703bceb557fa76db7c72516ff"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 77,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.5-1/versions/294",
+     "sha256": "e0502d05e0389a21d28e848bacf56c20301d8168da6f8e06681cc61c7e5fc485"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 77,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.5-1",
+     "sha256": "ee4a41ac626ae3e1a12635519a8facecd3317915066b5bacca7cad64777d254d"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Organisationsreglement des Stadtrates",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 32,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-1/versions/353",
+     "sha256": "a10175feb02c236c7a312fce03d583bcded3296358f1cc58aba8dbb472a2da67"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 31,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "01ebfd0efcda5022d34688b55c02114b54108ec235ab77ae0a83b6429ffcc1a5"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-entschvo",
+   "short": "EntschVO",
+   "title": "Verordnung über die Entschädigung der Behörden, Kommissionen und Funktionärinnen und Funktionäre",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2/versions/203",
+     "sha256": "41abd6dc6b1cdfbfa1d9e82493d10831cc20df6d5cc0841ebd9c350b59d31c36"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "52fe8e1d78bb816b26aade3f2d4cd52de283bc92d4c6e102523e24d2ee9eeac0"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-1-vbentschvo",
+   "short": "VbEntschVO",
+   "title": "Vollzugsbestimmungen zur Verordnung über die Entschädigung der Behörden, Kommissionen und Funktionärinnen und Funktionäre",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-2.1",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2.1/versions/112",
+     "sha256": "d90839ba825348768dac7813e5e7e467a64f2c153baef5bf43ed2e8c6f9d752c"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2.1/versions/281",
+     "sha256": "2bd1ef6bbaa169b74c654cb9ec054a1658932d4a91726a4f017983080f520013"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2.1/versions/293",
+     "sha256": "b5df6817d4be3b1ce62d6f2e0879e62792c9165496dd491470277d20667e2bb6"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-2.1",
+     "sha256": "0dbba81b5f8515d8aa42c0a3004d47dd7bf88f72e87ac216dff961c74c33d951"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Organisationsreglement Sozialkommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "09687040fbbcab750ff181febd996239475a0224d10326d01b9440f9d479c685"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Organisationsreglement der Baukommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 25,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "e6695a86cff44392f34c5f725e19ab4609854d9bb5158c0cb7a0ae4fbf16ea40"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-5",
+   "short": "SRS 1.6-5",
+   "title": "Organisationsreglement Grundsteuerkommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-5",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 23,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-5",
+     "sha256": "5fbfbdd23b4de35a390aaf8592c69ec63ae8509ddbfee08b2eb995257499ff7f"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-6",
+   "short": "SRS 1.6-6",
+   "title": "Organisationsreglement Bürgerrechtskommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-6",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-6",
+     "sha256": "a6cb521fecc26f5c354f28efa777f477a5e1ffcfbf9a10cb22b2445d8894691b"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-7",
+   "short": "SRS 1.6-7",
+   "title": "Organisationsreglement der Energiekommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-7",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-7/versions/116",
+     "sha256": "8e932fa2e371e6752e8a223ef67535faa0f9f79a00ed8bcfcc0f625623367075"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-7",
+     "sha256": "0d5641886f5c4f4146a092e1f72784e81f12c360c79394696e73a0755567b613"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-8-vregl",
+   "short": "Vregl",
+   "title": "Verwaltungsreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-8",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 48,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-8",
+     "sha256": "cfaa9a17dc4ee52e8cadcaff3602d0e788019d595e08c42cffa21e0decb55540"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-9",
+   "short": "SRS 1.6-9",
+   "title": "Organisationsreglement Kulturkommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-9",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 7,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-9",
+     "sha256": "cf529e635aed706a2fcc91e581887359a716197e1042ee4d2bf0a3fac245b1dc"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-10",
+   "short": "SRS 1.6-10",
+   "title": "Organisationsreglement Alterskommission",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.6-10",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-10/versions/285",
+     "sha256": "c131e74090b06ecfba91632ea9353ae26c16af38f91d9d920643134154e9aefb"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.6-10",
+     "sha256": "dc8e2a0f7deb0d653814ffbd6765542c1a2f7f159ed7d5a72415f5c0b8a0a859"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-mavo",
+   "short": "MaVo",
+   "title": "Verordnung über das Anstellungsverhältnis der Mitarbeiterinnen und Mitarbeiter",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 69,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-1/versions/209",
+     "sha256": "927361c54c7c80d83a0bd21ee0718bab861c3c312767449790287d83e5afb904"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 74,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "a8a28d17232d5c3ec4c17d6e9efd2c99a455e68b6a0665b9a88e803f559a1ec7"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-vbmavo",
+   "short": "VbMaVo",
+   "title": "Vollzugsbestimmungen zur Verordnung über das Anstellungsverhältnis der Mitarbeiterinnen und Mitarbeiter",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 91,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/210",
+     "sha256": "f4a508c180342baa68d36236dd50f113015144b0f8528ca9992151115bb50919"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 110,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/303",
+     "sha256": "010a7d8d998f8bec8b9acfd44406fc49fe87b36ba09c294fc32ecd695db7f884"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 104,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "5cd08580a1394583c99a545fa64e588aca6b55cf7d4c7434e32a4b8cace47e84"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2",
+   "short": "SRS 1.7-2",
+   "title": "Spesenreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.7-2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 20,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-2",
+     "sha256": "deeeda483611b9d5b2cac7cc147d15be2069f07098eb110265472fdaa630a2ce"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2-1",
+   "short": "SRS 1.7-2.1",
+   "title": "Zusatz-Spesenreglement der Stadt Kloten für leitendes Personal",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.7-2.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-2.1",
+     "sha256": "77108801f1997049a02e9756d8b6dd95258b2802a664ea6e41c9d6bd6b7dcc5d"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-3-pikettreglement",
+   "short": "Pikettreglement",
+   "title": "Reglement über Pikettdienst, besondere Dienste und Zulagen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/1.7-3",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 35,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/1.7-3",
+     "sha256": "f3789e10cdd6951a936273c8fd79ba2851b7d2410442b6f02c6141cb64629ef3"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Vertrag über die Zusammenarbeit unter Gemeinden im Kindes- und Erwachsenenschutzkreis Bülach Süd",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 21,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "fa7a085d3fdcac9a037e65c1b679ade87404bcc4720ac5a4a2886641c8ebb262"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-2",
+   "short": "SRS 2.1-2",
+   "title": "Vertrag über die Zusammenarbeit der Gemeinden im Zivilstandskreis Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/2.1-2",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/2.1-2",
+     "sha256": "54673e40bbb0ef60cc42c919b71c9cef0192e518d2d309998290c4112a463bb8"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Reglement über die Subventionsberechtigung in der Familien- und Schulergänzenden Betreuung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "78ea75b485252689f68200f78b0a346302f606c5a07541deab4c65ca765606a9"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Sicherheitsüberwachung mittels Videosystem der Schule Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 18,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "e137c650e6cea957f9d92398551f175d27f474768ab012d1d45f1bac968fa91d"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Elternratsreglement der Schule Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2013-05-16",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-3/versions/141",
+     "sha256": "f882b78c176907768862d3cfcc25a3c8abfa8cf423df6dbd0a96951172963bbc"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 20,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "8b1056d351e8cd1a43d5cc4224ce438b580fedc6d038b18b5b61bbeb81e25f8d"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4",
+   "short": "SRS 4.2-4",
+   "title": "Reglement für Exkursionen, Schulreisen, Abschlussreisen und Klassenlager der Schule Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-4",
+   "versions": [
+    {
+     "from": "2019-01-24",
+     "units": 25,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-4/versions/139",
+     "sha256": "e0a81e01e1b2cb96c30317a26dbda5fa9b7ed6620c8ff601d5813eabdf94bf9d"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-4",
+     "sha256": "d8f9b8bb153962a3ba494807a465f5a83efbb2a37374fa8e99a387e47e98ec3b"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-5",
+   "short": "SRS 4.2-5",
+   "title": "Konzept für die Prüfungsvorbereitungskurse zur Aufnahmeprüfung Gymnasium und Berufsmaturität",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-5",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-5",
+     "sha256": "70687ba95e76418bfb2ebc4aa8e1cd7ec0b20328a93ed0f3f8e524ea287cd8ad"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-6",
+   "short": "SRS 4.2-6",
+   "title": "Partnerschaftsvertrag zwischen der Stadt Kloten und der Partnergemeinde Opfikon über die Beteiligung an der Berufswahlschule Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-6",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-6",
+     "sha256": "00375494ca2bfcf56cf6af89b2c8e76db4d8934d39e7ca90acdfb2b923ace134"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-7",
+   "short": "SRS 4.2-7",
+   "title": "Schulpsychologischer Dienst Kloten-Opfikon: Kooperationsvereinbarung und Organisationsbeschrieb",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-7",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 35,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-7",
+     "sha256": "5b9f84923c5ff6af64c3d73e6976796fd826135b0fa4827af8b2d40d95203436"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-8",
+   "short": "SRS 4.2-8",
+   "title": "Reglement über die Schulbus-Transporte",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-8",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 25,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-8",
+     "sha256": "06a541904c6db65002b9d1981157f1e72e532361beb2a836c57296743b1583c0"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-9",
+   "short": "SRS 4.2-9",
+   "title": "Verordnung über die Jugendzahnpflege",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-9",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 19,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-9",
+     "sha256": "cea4a42e49c4c92b3cbf9e4c7dce0274b5ed1803d3be4bdc58d2b0f284e14df3"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-10",
+   "short": "SRS 4.2-10",
+   "title": "Organisationsreglement Schulpflege Kloten (Teil des Organisationsstatuts)",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-10",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 34,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-10/versions/255",
+     "sha256": "7ac3234e04e33b02c5d8c924e067bc337d2baaf9204d2c965dee62ddd474ba01"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 34,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-10",
+     "sha256": "702b25b94cc00f7ac2ed13539778422c66ed6b511c48a7975ef3b4e5d288a246"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-11",
+   "short": "SRS 4.2-11",
+   "title": "Organisationsreglement Bildung und Kind (Teil des Organisationsstatuts)",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.2-11",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 30,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-11/versions/254",
+     "sha256": "f6b89fed22e052bfe5a963c880caf6cc4992b721f1b6548c7820eeabc8adafd0"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 33,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.2-11",
+     "sha256": "24f316e0b5b3d539f20ffdc6cabc7e7af0b9e23e20335ce98f58bd3adef2bc5e"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Allgemeine Geschäftsbedingungen der Musikschule Kloten Bassersdorf Lufingen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 23,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "e794474900fd39d8535a15329ed13376e3cb30604d4a4b143d6dd02bacbe6c9c"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2",
+   "short": "SRS 4.3-2",
+   "title": "Gebührenreglement der Musikschule",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.3-2",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.3-2/versions/146",
+     "sha256": "98e7af06c21aac6ade2268df700cdbe153c5a334fb62b2ede2c5419845d6793c"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.3-2",
+     "sha256": "b663fe6a80a98d442eac27ad5fda45e5bedc60629d1b0066a46974ceb45e2c29"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Reglement zur Vergabe des Kultur- und des Kulturförderpreises",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 7,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "a8a1330eb52f8ca2210b135010a40e92ce45b51dfbf6635e32db3c349ca1b248"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-polv",
+   "short": "PolV",
+   "title": "Polizeiverordnung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2004-06-08",
+     "units": 100,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-1/versions/149",
+     "sha256": "d30233c83eb078481a3b937a3b77e20d7a8380f727895614741b963a956f5e0e"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 28,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-1/versions/318",
+     "sha256": "a0f67fd2080637302689db35423a3247267f73726eeb19ad5039febb4198e497"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 28,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "6a997f9d3b31e56b537c1bacf2f048e7f6a6fb53b50e1d34c8ed1d9147ab1baf"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Kommunalpolizeiliche Zusammenarbeit der Gemeinden Bassersdorf, Dietlikon, Kloten, Opfikon und Wallisellen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "570430533174e6b8452cf42f99b3da0132945a52f8daf9c5b78db1eaea009d17"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2-1",
+   "short": "SRS 5.1-2.1",
+   "title": "Kommunalpolizeiliche Zusammenarbeit der Gemeinden Bassersdorf - Dietlikon - Kloten - Opfikon - Wallisellen: Ausführungsbestimmungen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.1-2.1",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 8,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-2.1",
+     "sha256": "486d46093f0710da3a767f7d33e7ae63e6105b0c8340374f93ce1a04fc4c9ad2"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2-2",
+   "short": "SRS 5.1-2.2",
+   "title": "Dienstanweisung betreffend regionale Zusammenarbeit",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.1-2.2",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 5,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.1-2.2",
+     "sha256": "42d4d2c172f42ce05ff1c36b8a6f6d5ae79d2026bf408c57871e0bbb24033a6f"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Vereinbarung über die Bildung einer gemeinsamen Zivilschutzorganisation",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 31,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "5e897b2e50ce375595bbf8b6282760465f1d548b704b3f6ab4b48b579906aa06"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1-1",
+   "short": "SRS 5.3-1.1",
+   "title": "Geschäftsreglement der Zivilschutzorganisation Hardwald (ZSO Hardwald)",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/5.3-1.1",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 20,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/5.3-1.1",
+     "sha256": "dea0af7a49be5abf21bd1cbae3880b467edfc62af86264a9bc8bf8e3fb22ea6e"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Verordnung über die Gemeindegebühren der Stadt Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 27,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "aec2263d7b09490f81320d48be054af3e8451335a708d2ffbe83dca431c882ef"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-1",
+   "short": "SRS 6.4-1.1",
+   "title": "Allgemeines Gebührenreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.1",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 20,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.1",
+     "sha256": "edcc7bcae2a5156e5ede28bb4b8ea2893c2de9e58fb7b1d7f1afded1a25f69aa"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-2",
+   "short": "SRS 6.4-1.2",
+   "title": "Gebührenreglement über das Bürgerrechtswesen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.2",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.2/versions/265",
+     "sha256": "8d549c7397153840455c8fe7f415caf4143288651e15aba550c328baadbd8725"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.2",
+     "sha256": "b379b3e9be4ac71c3365f37fa50f10c0ca6ed352c05e69376729b9cd3059f597"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-4",
+   "short": "SRS 6.4-1.4",
+   "title": "Gebührenreglement Schulgelder Volksschule",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.4",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 4,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.4",
+     "sha256": "73343b8a26a51206c1fe0e9fbbac3c9055b7985a07da070875e90252a8635edb"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-5",
+   "short": "SRS 6.4-1.5",
+   "title": "Gebührenreglement Berufswahlschule",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.5",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 5,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.5",
+     "sha256": "c06849720a7958fbb617842b4083b975e8222e4f5c07f1b96738c7823bacd330"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-6",
+   "short": "SRS 6.4-1.6",
+   "title": "Gebührenreglement Förder- und Freizeitangebote für die Schule",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.6",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 5,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.6",
+     "sha256": "709ab81da6940cc097a81a8a351e70248bb5a45bff522e62ab508d8f19439b65"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-7",
+   "short": "SRS 6.4-1.7",
+   "title": "Gebührenreglement Vermietung von Bildungsräumen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.7",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.7",
+     "sha256": "774e06bd1616df2a014203bccd9a9fd3aa23f1d6fc819fa314f38154f8b4fe99"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-8",
+   "short": "SRS 6.4-1.8",
+   "title": "Gebührenreglement Freizeit und Sport",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.8",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 24,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.8/versions/273",
+     "sha256": "37e4544f7fec2ba22f6f8c085cb1e354abf43a5a1901806689d55270d0529434"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 26,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.8",
+     "sha256": "8cdfa706ddb1faff51ba2d7fd8c65e8dfa09faaf1b01dfa4934da19358312cd7"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-9",
+   "short": "SRS 6.4-1.9",
+   "title": "Gebührenreglement für Sicherheit, Verkehr, Polizei und Stadtrichteramt",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.9",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 39,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.9/versions/272",
+     "sha256": "f73d4a696da193243f72fbc4349ce71ede6606045485387efc76720db70f1777"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 39,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.9/versions/279",
+     "sha256": "2660588bb59405962bff2c40473ca199f4b260577e429c9c63b6f8e24dbd8e20"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 40,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.9",
+     "sha256": "37868d188ff866bb71557c399ba44b83dfe860999351412617f8aeb0933cbf38"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-10",
+   "short": "SRS 6.4-1.10",
+   "title": "Baugebührenreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.10",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 29,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.10/versions/271",
+     "sha256": "13eee1641274d08bd6bb733b726a11274f36223fa10ff5ed120a3ec759ce4db6"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 29,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.10",
+     "sha256": "2551fbb63c1dca98d88f2fe1180ae6bc010f487ff3249af76c2c511dfd17c68d"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-11",
+   "short": "SRS 6.4-1.11",
+   "title": "Gebührenreglement für Umwelt und Planung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.11",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 5,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.11",
+     "sha256": "0c585e67437a327e5b581082c2d1f32209d7bffd9b709c5a44e202dc5286f919"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-12",
+   "short": "SRS 6.4-1.12",
+   "title": "Gebührenreglement über das Abfallwesen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.12",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.12/versions/258",
+     "sha256": "0cdfd5beb18fd2e41d83ec27ac0b69752ebfef728081d3721eff66ae27560d7a"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.12/versions/292",
+     "sha256": "c5d72c278be44799eb76b3b8c116fb7896b75c656173ead0ca5637d28c38af21"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.12/versions/310",
+     "sha256": "97afa837f87d1d7e33abfb0cf2742d4ede517ddc539b430648f5f89ea2a2f064"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.12/versions/327",
+     "sha256": "90ae3f00cbc46ee8115375f10afcedf97b7cf97313df4734ded8bd6480e87935"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.12",
+     "sha256": "9e6d08d82d3967e5e83fbdc9c9f106a069882d4bb1abb9625d3c09ea364c06d4"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-13",
+   "short": "SRS 6.4-1.13",
+   "title": "Gebührenreglement Tiefbau",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.13",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.13/versions/259",
+     "sha256": "0d0bd201b094265727fe3b3bc317949b4ddf1efdc63e9964cd5f9b8204e0fc0a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.13",
+     "sha256": "60601cee5cb209f99e1a313771f068f2e156d6d970904352c1ea4ab88a26e040"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-14",
+   "short": "SRS 6.4-1.14",
+   "title": "Gebührenreglement Sondergebrauch und Sondernutzung für den Stadtplatz",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.14",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 8,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.14",
+     "sha256": "28234b4ee6023ef8cad6e4e69330574731d4e78a9185012c6181b2239268d0de"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-15",
+   "short": "SRS 6.4-1.15",
+   "title": "Gebührenreglement über das Friedhofs- und Bestattungswesen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.15",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.15/versions/261",
+     "sha256": "4d1cd02e170aac1ce0955dea5b4592882e940df988ba38f4d6336788cda8ca6e"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.15",
+     "sha256": "e05153040c58dddd6a2bb4194806311efa1fad495b8aa5c69fdafe9e7348dd1e"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-16",
+   "short": "SRS 6.4-1.16",
+   "title": "Gebührenreglement der Spitex",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.16",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.16/versions/262",
+     "sha256": "d5b782d4cc8b365e05043792d8b874b825f09b7fb1cc9c4003f63bc660b2b299"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 9,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.16",
+     "sha256": "bfff32d7033851a5ad99353a4aba73a9ef284bcf783e0a9a57f23d24e5a195f4"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-17",
+   "short": "SRS 6.4-1.17",
+   "title": "Gebührenreglement des Pflegezentrums im Spitz",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.17",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.17/versions/263",
+     "sha256": "bd4adb06cfb534a7ff7adde14f0775593625324316d64e6f14d30fbe06f24c69"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.17/versions/305",
+     "sha256": "d8b1eb65fbdd1925eed7eda0514a601ffe778cb607fd624c8b606f7ad9cafd93"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.17/versions/324",
+     "sha256": "973462996a026d22ec0e0e2cda729bc38aead087448c3cb4d37e641fa31ab0e2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.17",
+     "sha256": "eab8f67b03ca7ed1144f096e355c66be444fce0a2b1f92c3377680adf0ff2868"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-18",
+   "short": "SRS 6.4-1.18",
+   "title": "Gebührenreglement Frühförderung und Krippe Looren",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.18",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.18/versions/316",
+     "sha256": "55c76ee9fc046c2eaa237e9215a8c760ee8e63032427be9a2a55c434ed566f37"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.18",
+     "sha256": "6a81f07be6c784501e3e68dc1f8becf085f71978cba66446cefb692c36e6ba5d"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-19",
+   "short": "SRS 6.4-1.19",
+   "title": "Gebührenreglement Subventionen familienergänzende Betreuung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.19",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 11,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.19",
+     "sha256": "e4ab78a0b55beea64d6bd1d3517f8b664a47384ca83ff79fe3125a3fa2d9384c"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-20",
+   "short": "SRS 6.4-1.20",
+   "title": "Gebührenreglement Schulhorte",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.4-1.20",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.20/versions/321",
+     "sha256": "02f9c735900cc19df7ae1a8e3b43c219dfe906da6af63813839517cadc2a4590"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.20/versions/322",
+     "sha256": "080dad99d808d39c38cbdf2d822d9205a9ea9439992dc8b3d298746eae9c2265"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.4-1.20",
+     "sha256": "54f002c61093a000fbd63985671254427efb2b500970c8d2950953859a1a0d16"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Vereinbarung zur 300 m-Schiessanlage Bettensee, Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 15,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "07be06131f2c15cb4a956bc0ed3d18d4e355f623f552b3bb817baa88a4d7243f"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Anschlussvertrag über die Mitbenützung der 300 m-Schiessanlage Bettensee in Kloten durch die Gemeinden Bassersdorf und Dietlikon",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2013-09-01",
+     "units": 6,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "b10bd77f1e631f4b48e8235b44ff2acd6f860bd07e3579c1ac643b90327176c7"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-2",
+   "short": "SRS 6.6-1.2",
+   "title": "Reglement über die Benützung der 300 m-Schiessanlage Bettensee, Kloten",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/6.6-1.2",
+   "versions": [
+    {
+     "from": "1989-04-15",
+     "units": 29,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/6.6-1.2",
+     "sha256": "dd305fbdc045c918741f4de98fc55115553bbc0afaa5e9b031126572badcf980"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bau- und Zonenordnung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 68,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-1/versions/212",
+     "sha256": "218d94c21fccade2811003a3f895867571877a707d6b791dea76709c6e8f36e7"
+    },
+    {
+     "from": "2023-10-13",
+     "units": 79,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "953cb944483d1f9fbcca4cffd7145fd02d8843e9072de151bc32048c82c4c0e4"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Verordnung zum kommunalen Mehrwertausgleichsfonds",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 13,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "cbd5dee25f728d73323d58b6dc2d12841f928a17ee925cdbb948e2df78f2a1d7"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Statuten des regionalen Planungsverbandes Zürcher Planungsgruppe Glattal (ZPG)",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 60,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "675e8de973d0f801951b9faa799fe75dfc644165ad97dd9fa8db636a8237df86"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Reglement über die Ersatzabgabe für Fahrzeugabstellplätze",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "1987-02-10",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "641d8dfee624a1a1d29b22c223046dbeee052c294709cfe00b8b472da1450168"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-5",
+   "short": "SRS 7.1-5",
+   "title": "Parkplatzreglement",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-5",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 32,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-5/versions/231",
+     "sha256": "50b3f365444c9bd9775d1efa10aa181be0384d9f6bab7b1946441e6810a1593c"
+    },
+    {
+     "from": "2023-10-13",
+     "units": 32,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-5",
+     "sha256": "973c19557afedccb42dbf85f3af2dfe19d12c6ade89215e95fb2a729e6b72cf3"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-6",
+   "short": "SRS 7.1-6",
+   "title": "Richtlinien über die Familien- und Schrebergartenareale",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.1-6",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 33,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.1-6",
+     "sha256": "641f8d91455e9ceb23de770a4ceafb379c6ef7f224d56c9d23eeb1a556b4588e"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Kommunale Verordnung über den Natur- und Landschaftsschutz",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "1995-03-21",
+     "units": 223,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "5128ed6637028642eb2f0a1f2dd0c5c278161073db126de0a06be8441aaa8361"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1",
+   "short": "SRS 7.4-1",
+   "title": "Konzessionsvertrag für die Wasserversorgung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-1",
+   "versions": [
+    {
+     "from": "1999-01-19",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-1",
+     "sha256": "398a3b0b8e3051c8c34add3117b0168f26f29623a0d89b2dfe28f59328abc410"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2",
+   "short": "SRS 7.4-2",
+   "title": "Konzessionsvertrag für die Energieversorgung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-2",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 15,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-2",
+     "sha256": "f6b332c40d68efa4e8f8192da0c5d23ab0867f36e8544bfd4c7d3804acf8d951"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3",
+   "short": "SRS 7.4-3",
+   "title": "Abfallverordnung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-3",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 11,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-3",
+     "sha256": "c646defa36fcca7b5800aabedd1a14108fc8a5c75cf44eae9bb7e50c82a593d5"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-sevo",
+   "short": "SEVO",
+   "title": "Siedlungsentwässerungsverordnung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-4",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 53,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-4",
+     "sha256": "eb61cd2efdf2eac9c8b459519f55f98671eb98f56c9c121c88813ca95a7459ba"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4-4.1",
+   "title": "Verordnung über die Gebühren für Siedlungsentwässerungsanlagen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-4.1",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 23,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-4.1/versions/248",
+     "sha256": "5518394eede9ac98853f706b4e1b46437c2367a46e3c785209b03a31972bbaa7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 23,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-4.1",
+     "sha256": "fc39655f6a6eae2a66484423c741d756fa0f812e09ff02052d6ffc23477abbe8"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5",
+   "short": "SRS 7.4-5",
+   "title": "Reglement zur Förderung von Photovoltaikanlagen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-5",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-5",
+     "sha256": "2f6612c2ee3e7d824d91ccdb30c9d14f7a06f3e4ecade3cf9ef0681959d6ae8f"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-6-vogl",
+   "short": "VOGL",
+   "title": "Verordnung über die gemeinnützigen Leistungen der Industriellen Betriebe Kloten AG und Abgaben",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.4-6",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.4-6",
+     "sha256": "2b7dea681b2fed6dd96bbd6774b8e3943fb273ac33511d8487510633f844ef11"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Verordnung über den Unterhalt der Waldwege",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "1980-03-05",
+     "units": 17,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "42d940af9cd548ab4cc19b07770580bc4411c46d88f6c759e2c892e6c60dd9f8"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Verordnung über den Unterhalt der Feldwege und Drainagen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "1997-08-06",
+     "units": 24,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "438214ef60366b3a0f3ffab6fecf6fb8f807069c46d45e0ade1807bd205f7c76"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-3-privatstrassenverordnung",
+   "short": "Privatstrassenverordnung",
+   "title": "Verordnung über den Unterhalt und die Benützung der privaten Strassen und Wege",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.6-3",
+   "versions": [
+    {
+     "from": "1968-05-30",
+     "units": 14,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.6-3",
+     "sha256": "3fae1bcfb325e54579f712c0ec77b2f7f9a3968569eeda7c474e1b8a788db62a"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-4",
+   "short": "SRS 7.6-4",
+   "title": "Verordnung über die Häusernummerierung",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.6-4",
+   "versions": [
+    {
+     "from": "1990-02-20",
+     "units": 11,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.6-4",
+     "sha256": "a868ca84ae7291e30eb6e3af23686d47078c4ca5396a537afa051afe07398a11"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-parkverordnung",
+   "short": "Parkverordnung",
+   "title": "Verordnung über das unbeschränkte Parkieren in Blauen Zonen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "1994-12-06",
+     "units": 15,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.7-1/versions/191",
+     "sha256": "2a2102e6e533b0b929e52247945f6d5344132d2fa79bc5512eb5526e091b71f9"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 15,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "40cd9b111d029cde7337fbda682be3172fe35f49ec625e2c9db993aa7f4306ba"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Statuten der Spital Bülach AG",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 26,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "2180cc404313fde1987cf5757de2ea8eda04b9aadf0d662f44f1d2204dc2cd93"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Reglement über das Friedhofs- und Bestattungswesen",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2018-05-01",
+     "units": 41,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.2-1/versions/218",
+     "sha256": "1ce9d04dc79d895f7d32b73b213410be0f55795215c4d8f9dbde7dd2f573e4a7"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 41,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.2-1/versions/295",
+     "sha256": "921aae24b5ce0f92b71911835ce95887900089952ff2d9733f824398cb3384f3"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 41,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "4940ca47b2f6742448eda7e01f72a61e174e15b45f6ab1b1d0454503cd7eb081"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Richtlinien für Grabmäler",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 16,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "a26435bc6abe68cdcfd706d75f4b00306838e20be3c9e71bc9f016bdd31a4688"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-2",
+   "short": "SRS 8.2-2",
+   "title": "Anschlussvertrag betreffend die Beisetzung von Verstorbenen muslimischen Glaubens auf dem Friedhof Witikon",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.2-2",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 8,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.2-2",
+     "sha256": "e46cd7fe281eacb1fd27478593749eb8fdf19cdd68d153759e67ade7611930ec"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Reglement über die Zusatzleistungen zur eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV): Gemeindezuschüsse",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 11,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-1/versions/196",
+     "sha256": "b68bb83338e5a5668b0aa997780f9f7880e21402b4dc9f05b32a7b8d8f968132"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 11,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "03108ec25b1202ce594823e2d5d8f72376ce22c5c66ad9e8fc62c07326c14dff"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Verordnung über den Betrieb des Pflegezentrums im Spitz (inkl. Pflegestation Kirchgasse und Pflegewohnung)",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 38,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-2/versions/197",
+     "sha256": "4235b5fb05f7bca53561c5898b98a3ba9a6c2f2e4d5fb2a60eb276aba6bb4197"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 37,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-2/versions/325",
+     "sha256": "a0352da9502175f34a51af7ea274570b78318515006a2709e5c0f8af9055c2c9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "daa3bf9144023db9a5730c75d771aa6c5fcea98966caa2bf22c2db67a8e0b02d"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Anstaltsvertrag interkommunale Anstalt KZU",
+   "url": "https://kloten.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 37,
+     "source_url": "https://kloten.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "05c54f56735b80d13b9b61191830a977169401ad3e704d0f65d2e53f3b5da44f"
+    }
+   ]
+  }
+ ]
+}

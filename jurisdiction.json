@@ -1,0 +1,11 @@
+{
+  "path": "ch-zh-kloten",
+  "code": "CH-ZH-KLOTEN",
+  "name": "Kloten (city)",
+  "level": "municipality",
+  "parent": "ch-zh",
+  "repo": "https://github.com/lexifina/switzerland-kloten-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (92 acts, 143 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
