@@ -1,0 +1,28 @@
+{
+ "sources": [
+  {
+   "id": "lexwork-kloten-city",
+   "kind": "legislation",
+   "name": {
+    "en": "Kloten: systematic collection (kloten.tlex.ch)",
+    "de": "Kloten: Systematische Sammlung (kloten.tlex.ch)"
+   },
+   "url": "https://kloten.tlex.ch/",
+   "reads": {
+    "en": "the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once",
+    "de": "jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "switzerland/zurich/kloten/acts"
+   ],
+   "interval": 1.0,
+   "group": "lexwork",
+   "repo": "switzerland-kloten-city-law"
+  }
+ ]
+}
