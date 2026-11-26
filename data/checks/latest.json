@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:27:30Z",
+ "generated": "2026-11-26T07:18:52Z",
  "latest": {
   "lexwork-kloten-city|switzerland/zurich/kloten/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 92,
     "source_in_scope": 92
    },
-   "check_id": "ch-lexwork-kloten-city-20261125T082313Z",
+   "check_id": "ch-lexwork-kloten-city-20261126T071435Z",
    "commits": null,
    "corpus": "switzerland/zurich/kloten/acts",
    "error": null,
-   "finished": "2026-11-25T08:23:58Z",
+   "finished": "2026-11-26T07:15:22Z",
    "flags": [],
    "gap": 0,
    "note": "kloten.tlex.ch: index of 93 acts (93 in force); held 92; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 14 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 39,
+   "requests": 42,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "93 entries, 93 in force (kloten.tlex.ch)",
    "source": "lexwork-kloten-city",
-   "started": "2026-11-25T08:23:13Z",
+   "started": "2026-11-26T07:14:35Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 14,
-    "versions_checked": 20,
+    "versions_checked": 19,
     "versions_differ": 0
    }
   }
