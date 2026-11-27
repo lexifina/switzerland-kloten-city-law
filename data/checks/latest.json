@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:18:52Z",
+ "generated": "2026-11-27T07:12:57Z",
  "latest": {
   "lexwork-kloten-city|switzerland/zurich/kloten/acts": {
    "attempt": 1,
@@ -23,12 +23,17 @@
     "repo": 92,
     "source_in_scope": 92
    },
-   "check_id": "ch-lexwork-kloten-city-20261126T071435Z",
+   "check_id": "ch-lexwork-kloten-city-20261127T070900Z",
    "commits": null,
    "corpus": "switzerland/zurich/kloten/acts",
    "error": null,
-   "finished": "2026-11-26T07:15:22Z",
-   "flags": [],
+   "finished": "2026-11-27T07:09:52Z",
+   "flags": [
+    {
+     "detail": "1 of 24 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
    "gap": 0,
    "note": "kloten.tlex.ch: index of 93 acts (93 in force); held 92; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 14 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
@@ -37,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 42,
+   "requests": 48,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +52,7 @@
    },
    "snapshot": "93 entries, 93 in force (kloten.tlex.ch)",
    "source": "lexwork-kloten-city",
-   "started": "2026-11-26T07:14:35Z",
+   "started": "2026-11-27T07:09:00Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -61,15 +66,17 @@
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [],
+    "examples": [
+     "6.4-1.12 (6-4-1-12): 2023-03-01, 2024-01-01"
+    ],
     "held": 92,
     "method": "each act compared this check (14 of 92: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from kloten.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
-    "ok": true,
+    "ok": false,
     "swept": 14,
-    "versions_checked": 19,
-    "versions_differ": 0
+    "versions_checked": 24,
+    "versions_differ": 1
    }
   }
  },
